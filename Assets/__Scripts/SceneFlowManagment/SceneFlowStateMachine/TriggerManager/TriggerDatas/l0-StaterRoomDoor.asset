@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17ddda69248db9d40bd89e8b13bc6fd9, type: 3}
+  m_Name: l0-StaterRoomDoor
+  m_EditorClassIdentifier: 
+  triggerID: level0-door
+  triggerType: 2
+  description: "bar\u0131\u015F d\u0131jsad\u0131osja"
+  soundClip: {fileID: 8300000, guid: 54d7d56fd83057a4780cbf00308a6e6c, type: 3}
+  soundPosition: {x: -111.5, y: 7.42, z: -34.51}
+  cutsceneName: 
