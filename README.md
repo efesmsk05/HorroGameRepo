@@ -22,12 +22,20 @@ https://github.com/user-attachments/assets/520233e6-f204-418b-8cf5-f67744f84704
 * **Nostaljik Korku Atmosferi:** Modern grafikleri bilinçli olarak düşük çözünürlüklü ve "jittery" (titrek/vertex snapping) bir hale getiren bir post-processing ve materyal shader'ı yazdım. 
 * **Tasarım Amacı:** Bu yöntem hem retro korku oyunlarının (eski PS1 oyunları) o tekinsiz hissini veriyor hem de düşük poligonlu modellerin estetik bir bütünlük içinde görünmesini sağlıyor.
 
-![PSX Shader Efekti](BURAYA_SHADER_VİDEO_VEYA_GIF_LİNKİNİ_YAPIŞTIR)
+![PSX Shader Efekti](
+
+https://github.com/user-attachments/assets/21802a8d-e829-4aed-b0b8-28a8b5151743
+
+)
 
 ### 👻 Yarı Transparan Düşman Shader'ı (Semi-Transparent Silhouette)
 * **Siluet Etkisi:** Düşmanın tüm detaylarıyla görünmesi yerine, korku unsurunu artırmak adına sadece bir gölge/siluet gibi algılanması için yarı transparan, derinlik ve form algısı olan özel bir shader geliştirdim.
 
-![Düşman Shader Siluet Etkisi](BURAYA_DUSMAN_VİDEO_VEYA_GIF_LİNKİNİ_YAPIŞTIR)
+![Düşman Shader Siluet Etkisi](
+
+https://github.com/user-attachments/assets/7bf109a8-626c-4b1b-a44c-b8d3448a886b
+
+)
 
 ---
 
@@ -40,7 +48,11 @@ Bu projede temel odak noktam, temiz kod prensiplerine uygun, modüler ve perform
 * **Eşya İnceleme (Inspect System):** Oyuncunun eşyayı 3D uzayda detaylıca incelemesini sağlayan bir sistem kurguladım. İnceleme sırasında oyun akışını yönetmek için durum tabanlı (State-based) bir yaklaşım izledim.
 * **Fırlatma ve Toplama:** Fizik (Rigidbody) tabanlı fırlatma mekaniği ile `Raycast` tabanlı hassas obje toplama sistemini entegre ettim.
 
-![Envanter ve İnceleme Sistemi](BURAYA_ENVANTER_VİDEO_VEYA_GIF_LİNKİNİ_YAPIŞTIR)
+![Envanter ve İnceleme Sistemi](
+
+https://github.com/user-attachments/assets/231c0328-30cf-4d06-a0b3-7faa7a694788
+
+)
 
 ### 🗺 Görev Sistemi (Quest System)
 * Durum makinesi (**State Machine**) mantığıyla çalışan, oyuncunun mevcut ilerlemesini takip eden ve kullanıcı arayüzü (UI) ile entegre bir merkezi görev yöneticisi tasarladım.
