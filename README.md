@@ -14,6 +14,9 @@ Oyunun atmosferini güçlendirmek için standart Unity materyalleri yerine kendi
 
 ![İnteraktif Ana Menü Deneyimi](
 
+<img width="1361" height="846" alt="MainMenu" src="https://github.com/user-attachments/assets/45666869-7a73-4a45-88e4-21ac72c0455e" />
+
+
 https://github.com/user-attachments/assets/520233e6-f204-418b-8cf5-f67744f84704
 
 )
@@ -32,6 +35,8 @@ https://github.com/user-attachments/assets/21802a8d-e829-4aed-b0b8-28a8b5151743
 * **Siluet Etkisi:** Düşmanın tüm detaylarıyla görünmesi yerine, korku unsurunu artırmak adına sadece bir gölge/siluet gibi algılanması için yarı transparan, derinlik ve form algısı olan özel bir shader geliştirdim.
 
 ![Düşman Shader Siluet Etkisi](
+
+<img width="1091" height="879" alt="Shader" src="https://github.com/user-attachments/assets/0bf93791-1aca-45a9-929f-84d3d92f8e78" />
 
 https://github.com/user-attachments/assets/7bf109a8-626c-4b1b-a44c-b8d3448a886b
 
