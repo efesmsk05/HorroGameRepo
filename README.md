@@ -12,7 +12,11 @@ Oyunun atmosferini güçlendirmek için standart Unity materyalleri yerine kendi
 * **Daldırma (Immersion):** Oyuncuyu henüz menüdeyken bile oyunun içinde hissettirmek istedim. Güvenlik odasında oturan karakterimiz ve monitörler üzerinden yönetilen bir UI tasarladım.
 * **Teknik:** Kamera geçişleri (Cinemachine) ve dünya uzayında (World Space Canvas) render edilen arayüz elementlerinin optimizasyonu sağlandı.
 
-![İnteraktif Ana Menü Deneyimi](BURAYA_ANA_MENU_VİDEO_VEYA_GIF_LİNKİNİ_YAPIŞTIR)
+![İnteraktif Ana Menü Deneyimi](
+
+https://github.com/user-attachments/assets/520233e6-f204-418b-8cf5-f67744f84704
+
+)
 
 ### 👾 PSX Style & Pixel Shader
 * **Nostaljik Korku Atmosferi:** Modern grafikleri bilinçli olarak düşük çözünürlüklü ve "jittery" (titrek/vertex snapping) bir hale getiren bir post-processing ve materyal shader'ı yazdım. 
